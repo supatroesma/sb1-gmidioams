@@ -137,7 +137,7 @@ export const translations: Record<Language, Translations> = {
     header: {
       about: 'Quiénes Somos',
       practices: 'Áreas de Práctica',
-      whyUs: 'Por Qué Elegirnos',
+      whyUs: 'PorQué Elegirnos',
       process: 'Proceso',
       contact: 'Contacto',
     },
